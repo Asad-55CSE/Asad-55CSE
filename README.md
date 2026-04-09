@@ -39,10 +39,12 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
+
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
@@ -53,7 +55,12 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 
 ### Networking & Infrastructure
 ![Cisco](https://img.shields.io/badge/Cisco_CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Networking](https://img.shields.io/badge/Switching_%26_Routing-0f172a?style=flat-square&logo=router&logoColor=white)
+![Switching](https://img.shields.io/badge/Switching-0f172a?style=flat-square&logo=cisco&logoColor=white)
+![Routing](https://img.shields.io/badge/Routing-0f172a?style=flat-square&logo=cisco&logoColor=white)
+![Wireless Essentials](https://img.shields.io/badge/Wireless_Essentials-0f172a?style=flat-square&logo=cisco&logoColor=white)
+![Enterprise Networking](https://img.shields.io/badge/Enterprise_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Security](https://img.shields.io/badge/Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
@@ -62,9 +69,9 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 | Certification | Issuer | Year |
 |---|---|---|
 | 🎓 Complete Web Development (Full Stack) | Programming Hero | 2025- |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | National Academy for Computer Training and Research (NACTAR) | 2023 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | National Academy for Computer Training and Research (NACTAR) | 2023–2024 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | National Academy for Computer Training and Research (NACTAR) | 2024 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | National Academy for Computer Training and Research | 2023 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | National Academy for Computer Training and Research | 2023–2024 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | National Academy for Computer Training and Research | 2024 |
 
 ---
 
