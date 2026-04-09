@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hafizalasad--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafizalasad-dev/)
 [![Email](https://img.shields.io/badge/Email-alasad.cse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alasad.cse@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Asad-55CSE&color=0f172a&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -27,7 +25,7 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 - 🏆 Built an **automated scheduling system** using **Genetic Algorithm** as my thesis project
 - 🎓 Earned **Cisco CCNA certification** across 3 modules (2023–2024)
 - 💼 **Available for Work** — open to freelance, full-time, or collaboration
-- 📍 Based in **Rajshahi, Bangladesh**
+- 📍 Based in **Dhaka, Bangladesh**
 
 ---
 
@@ -63,10 +61,10 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 
 | Certification | Issuer | Year |
 |---|---|---|
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | Cisco Networking Academy | 2023 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | Cisco Networking Academy | 2023–2024 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | Cisco Networking Academy | 2024 |
-| 🎓 Complete Web Development (Full Stack) | Programming Hero | — |
+| 🎓 Complete Web Development (Full Stack) | Programming Hero | 2025- |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | National Academy for Computer Training and Research (NACTAR) | 2023 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | National Academy for Computer Training and Research (NACTAR) | 2023–2024 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | National Academy for Computer Training and Research (NACTAR) | 2024 |
 
 ---
 
@@ -89,10 +87,6 @@ Varendra University (VU), Rajshahi · *January 2017 – June 2021*
 
 <div align="center">
 
-![Hafiz Al Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asad-55CSE&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asad-55CSE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Asad-55CSE&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
 
 </div>
@@ -104,7 +98,6 @@ Varendra University (VU), Rajshahi · *January 2017 – June 2021*
 <div align="center">
 
 📧 **Email:** [alasad.cse@gmail.com](mailto:alasad.cse@gmail.com)
-📞 **Phone:** +880 1785-596779
 🌐 **Portfolio:** [asad-dynamic.vercel.app](https://asad-dynamic.vercel.app)
 💼 **LinkedIn:** [linkedin.com/in/hafizalasad-dev](https://www.linkedin.com/in/hafizalasad-dev/)
 
@@ -115,5 +108,5 @@ Varendra University (VU), Rajshahi · *January 2017 – June 2021*
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by Hafiz Al Asad · Full Stack Developer · Bangladesh</sub>
+  <sub>Hafiz Al Asad · Full Stack Developer · Bangladesh</sub>
 </div>
