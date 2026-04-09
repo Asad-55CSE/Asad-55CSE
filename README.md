@@ -69,16 +69,9 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 | Certification | Issuer | Year |
 |---|---|---|
 | 🎓 Complete Web Development (Full Stack) | Programming Hero | 2025- |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | National Academy for Computer Training and Research | 2023 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | National Academy for Computer Training and Research | 2023–2024 |
-| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | National Academy for Computer Training and Research | 2024 |
-
----
-
-## 🎓 Education
-
-**Bachelor of Science in Computer Science & Engineering**
-Varendra University (VU), Rajshahi · *January 2017 – June 2021*
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 1 | National Academy for Computer Training and Research (NACTAR) | 2023 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 2 | National Academy for Computer Training and Research (NACTAR) | 2023–2024 |
+| 🥇 Cisco Certified Network Associate (CCNA) — Module 3 | National Academy for Computer Training and Research (NACTAR) | 2024 |
 
 ---
 
