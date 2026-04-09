@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://asad-dynamic.vercel.app/assets/profile.jpg" width="130" style="border-radius: 50%;" alt="Hafiz Al Asad" />
+<img src="./assets/Futuristic web developer banner design.png"  alt="Hafiz Al Asad" />
 
 # Hi there, I'm Hafiz Al Asad 👋
 
