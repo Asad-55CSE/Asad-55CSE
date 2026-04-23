@@ -72,16 +72,6 @@ I'm a passionate **MERN Stack Developer** and **Computer Science graduate** from
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Asad-55CSE&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📬 Let's Connect
 
 <div align="center">
